@@ -1,5 +1,5 @@
 # HandSegmentation
-hand guster segmenataion from uniform and non-uniform images.
+Hand guster segmenataion from uniform and non-uniform images.
 This project is a graduation project at METU NCC.
 
 The purose: segment hand shape from uniform and non-uniform images.
