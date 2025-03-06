@@ -1,4 +1,4 @@
-# HandSegmentation
+# Hand Gesture Segmentation From Uniform & Non-Uniform Images
 Hand guster segmenataion from uniform and non-uniform images.
 This project is a graduation project at METU NCC.
 
